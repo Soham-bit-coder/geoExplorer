@@ -1,0 +1,10 @@
+
+{
+  "name": "GeoExplorer AI Pro",
+  "description": "Next-gen location intelligence with AI Lens, Voice Co-Pilot, and Itinerary Planning.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
